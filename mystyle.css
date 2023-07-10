@@ -1,0 +1,28 @@
+
+
+.speaker {
+    font-weight: bold; 
+    color: red; 
+}
+
+.proj {
+    font-weight: bold; 
+    color: darkgreen; 
+}
+
+.italic {
+    font-style: italic;
+}
+
+col.hide {
+    visibility: collapse; 
+/*    display: none;*/
+}
+
+.noClass {
+    background: #FFFFE0;
+}
+
+.presy {
+    background: #F0F8FF;
+}

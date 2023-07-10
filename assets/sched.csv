@@ -1,0 +1,46 @@
+﻿class-row,class-topic,Day,Date,Topic,Reading,Assign-OUT,Assign-DUE
+,,W,9.06,"Welcome - Ice Breakers, Learning Goals, Worries, What is DS, examples, ethics",Ch 1 ,,
+,,F,9.08,"Data - Vocab 
+Vis - Reading a graphic ",Ch 2,hw1,
+,,M,9.11,Vis - Composing a graphic ,Ch 2,,
+,,W,9.13,Vis - Usefulness and wrong turns ,Ch 2,,
+,proj,F,9.15,Mini-Project 1 ,,q1,hw1
+noClass,italic,M,9.18,NO CLASS - Personal Day ,,,
+,,W,9.2,"Intro to coding (variables, comp arch), R / R Studio / markdown ","Appendix B, D",,
+,speaker,F,9.22,Guest Speaker: Visualizing Boston City Data ,,hw2,q1
+,,M,9.25,Grammar of Graphics,Ch 3 ,,
+,,W,9.27,Grammar of Graphics,Ch 3 ,,
+,,F,9.29,Grammar of Graphics ,Ch 3 ,q2,hw2
+,,M,10.02,Data Wrangling - one table ,Ch 4,,
+,,W,10.04,Data Wrangling - one table ,Ch 4 ,,
+,,F,10.06,Data Wrangling - one table ,Ch 4 ,hw3,q2
+noClass,italic,M,10.09,NO CLASS - UNIVERSITY HOLIDAY ,,,
+,proj,W,10.11,Mini-Project 2,,,
+,proj,F,10.13,Mini-Project 2,,q3,hw3
+,,M,10.16,Data Wrangling - multiple tables,Ch 5,,
+,,W,10.18,Data Wrangling - multiple tables,Ch 5 ,,
+,,F,10.2,Data Wrangling - multiple tables,Ch 5,hw4,q3
+,,M,10.23,Tidy data ,Ch 6 ,,
+,,W,10.25,Tidy data ,Ch 6 ,,
+,speaker,F,10.27,Guest Speaker: Data Science for Public Health,,q4,hw4
+,,M,10.3,Tidy data ,Ch 6,,
+,proj,W,11.01,Mini-Project 3,,,
+,proj,F,11.03,Mini-Project 3,,hw5,q4
+,,M,11.06,Functions and Iteration,Ch 7,,
+,,W,11.08,Functions and Iteration,Ch 7,,
+noClass,italic,F,11.1,NO CLASS - UNIVERSITY HOLIDAY ,,q5,
+,,M,11.13,Functions and Iteration ,Ch 7,,hw5
+,,W,11.15,Functions and Iteration ,Ch 7,,
+,,F,11.17,Functions and Iteration ,Ch 7,proj,q5
+,,M,11.2,Analysis Process,,,
+,,W,11.22,Analysis Process,,,
+noClass ,italic ,F,11.24,NO CLASS - UNIVERSITY HOLIDAY ,,,
+,proj,M,11.27,Mini-Project 4,,,
+,proj,W,11.29,Mini-Project 4,,,
+,speaker,F,12.01,Guest Speaker: Analyzing the Electrical Grid,,,
+,,M,12.04,Advanced Topics - VA / interactive VIS,Ch 14,,
+,,W,12.06,Advanced Topics - Databases / SQL ,Ch 15,,
+,,F,12.08,Advanced Topics - ML / AI ,Ch 11/12 ,,
+presy,proj,M,12.11,Final Project Presentations,,,proj 
+presy,proj,W,12.13,Final Project Presentations,,,
+presy,proj ,F,12.15,Final Project Presentations,,,
