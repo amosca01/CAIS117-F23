@@ -1,46 +1,45 @@
 ﻿class-row,class-topic,Day,Date,Topic,Reading,Assign-OUT,Assign-DUE
-,,W,9.06,"Welcome - Ice Breakers, Learning Goals, Worries, What is DS, examples, ethics",Ch 1 ,,
-,,F,9.08,"Data - Vocab 
-Vis - Reading a graphic ",Ch 2,hw1,
-,,M,9.11,Vis - Composing a graphic ,Ch 2,,
-,,W,9.13,Vis - Usefulness and wrong turns ,Ch 2,,
-,proj,F,9.15,Mini-Project 1 ,,q1,hw1
-noClass,italic,M,9.18,NO CLASS - Personal Day ,,,
-,,W,9.2,"Intro to coding (variables, comp arch), R / R Studio / markdown ","Appendix B, D",,
-,speaker,F,9.22,Guest Speaker: Visualizing Boston City Data ,,hw2,q1
-,,M,9.25,Grammar of Graphics,Ch 3 ,,
-,,W,9.27,Grammar of Graphics,Ch 3 ,,
-,,F,9.29,Grammar of Graphics ,Ch 3 ,q2,hw2
-,,M,10.02,Data Wrangling - one table ,Ch 4,,
-,,W,10.04,Data Wrangling - one table ,Ch 4 ,,
-,,F,10.06,Data Wrangling - one table ,Ch 4 ,hw3,q2
+,,W,9.06,"Welcome - Ice breakers, Learning goals, Worries, What is CS",,hw00,
+,,F,9.08,How computers work ,,hw01,hw00
+,inClass,M,9.11,"Python intro, Pair programming ",,,ic01
+,,W,9.13,User Input,,,
+,,F,9.15,Numbers,,hw02,hw01
+noClass,italic,M,9.18,NO CLASS - Personal Day,,,
+,,W,9.2,Mathematical operators,,,
+,speaker,F,9.22,Code for Good Spotlight,,hw03,hw02
+,,M,9.25,"Conditional (""if"") statements",,,
+,,W,9.27,Strings and string methods,,,
+,,F,9.29,The main() function ,,hw04,hw03
+,inClass,M,10.02,Debugging,,,ic02
+,,W,10.04,For loops and While loops,,,
+,,F,10.06,The random module,,hw05,hw04
 noClass,italic,M,10.09,NO CLASS - UNIVERSITY HOLIDAY ,,,
-,proj,W,10.11,Mini-Project 2,,,
-,proj,F,10.13,Mini-Project 2,,q3,hw3
-,,M,10.16,Data Wrangling - multiple tables,Ch 5,,
-,,W,10.18,Data Wrangling - multiple tables,Ch 5 ,,
-,,F,10.2,Data Wrangling - multiple tables,Ch 5,hw4,q3
-,,M,10.23,Tidy data ,Ch 6 ,,
-,,W,10.25,Tidy data ,Ch 6 ,,
-,speaker,F,10.27,Guest Speaker: Data Science for Public Health,,q4,hw4
-,,M,10.3,Tidy data ,Ch 6,,
-,proj,W,11.01,Mini-Project 3,,,
-,proj,F,11.03,Mini-Project 3,,hw5,q4
-,,M,11.06,Functions and Iteration,Ch 7,,
-,,W,11.08,Functions and Iteration,Ch 7,,
-noClass,italic,F,11.1,NO CLASS - UNIVERSITY HOLIDAY ,,q5,
-,,M,11.13,Functions and Iteration ,Ch 7,,hw5
-,,W,11.15,Functions and Iteration ,Ch 7,,
-,,F,11.17,Functions and Iteration ,Ch 7,proj,q5
-,,M,11.2,Analysis Process,,,
-,,W,11.22,Analysis Process,,,
+,inClass,W,10.11,Documentation,,,ic03
+,,F,10.13,Writing functions,,hw06,hw05
+,,M,10.16,More functions ,,,
+,,W,10.18,Lists,,,
+,,F,10.2,Dictionaries,,,hw06
+,inClass,M,10.23,Code reuse,,,ic04
+,speaker,W,10.25,Code for Good Spotlight,,,
+,exam,F,10.27,Extra Credit Midterm ,,hw07,
+,,M,10.3,Recursion pt. 1,,,
+,,W,11.01,Recursion pt. 2,,,
+,,F,11.03,Classes pt. 1: Attributes and Methods,,proj,hw07
+,,M,11.06,Classes pt. 2: OOP,,,
+,,W,11.08,Classes pt 3: Inheritance,,,
+noClass,italic,F,11.1,NO CLASS - UNIVERSITY HOLIDAY ,,,
+,inClass,M,11.13,Paper prototyping,,,ic05
+,,W,11.15,Animation,,,
+,,F,11.17,Interaction,,,proj-proposal
+,,M,11.2,Working with files ,,,
+noClass,italic,W,11.22,NO CLASS - Everyone take a personal day ,,,
 noClass ,italic ,F,11.24,NO CLASS - UNIVERSITY HOLIDAY ,,,
-,proj,M,11.27,Mini-Project 4,,,
-,proj,W,11.29,Mini-Project 4,,,
-,speaker,F,12.01,Guest Speaker: Analyzing the Electrical Grid,,,
-,,M,12.04,Advanced Topics - VA / interactive VIS,Ch 14,,
-,,W,12.06,Advanced Topics - Databases / SQL ,Ch 15,,
-,,F,12.08,Advanced Topics - ML / AI ,Ch 11/12 ,,
-presy,proj,M,12.11,Final Project Presentations,,,proj 
-presy,proj,W,12.13,Final Project Presentations,,,
-presy,proj ,F,12.15,Final Project Presentations,,,
+,,M,11.27,Introduction to algorithms,,,
+,inClass,W,11.29,Python packages and graphics,,,ic06
+,proj,F,12.01,Final project workshop,,,proj-prototypeI
+,,M,12.04,Handling exceptions,,,
+,,W,12.06,Advanced Topics - HCI,,,
+,speaker,F,12.08,Code for Good Spotlight,,,proj-prototypeII
+,,M,12.11,Wrap-up,,,
+presy,proj,W,12.13,Final Project Demo Day,,,
+presy,proj ,F,12.15,Final Project Demo Day,,,proj

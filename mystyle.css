@@ -26,3 +26,13 @@ col.hide {
 .presy {
     background: #F0F8FF;
 }
+
+.inClass {
+    font-weight: bold; 
+    color: darkorange; 
+}
+
+.exam {
+    font-weight: bold; 
+    color: darkblue; 
+}
