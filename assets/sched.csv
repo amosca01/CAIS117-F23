@@ -6,7 +6,7 @@
 ,,F,9.15,Numbers,,hw02,hw01
 noClass,italic,M,9.18,NO CLASS - Personal Day,,,
 ,,W,9.2,Mathematical operators,,,
-,speaker,F,9.22,Code for Good Spotlight,,hw03,hw02
+,speaker,F,9.22,Code for Good Spotlight,,hw03,"hw02, cfg01"
 ,,M,9.25,"Conditional (""if"") statements",,,
 ,,W,9.27,Strings and string methods,,,
 ,,F,9.29,The main() function ,,hw04,hw03
@@ -20,7 +20,7 @@ noClass,italic,M,10.09,NO CLASS - UNIVERSITY HOLIDAY ,,,
 ,,W,10.18,Lists,,,
 ,,F,10.2,Dictionaries,,,hw06
 ,inClass,M,10.23,Code reuse,,,ic04
-,speaker,W,10.25,Code for Good Spotlight,,,
+,speaker,W,10.25,Code for Good Spotlight,,,cfg02
 ,exam,F,10.27,Extra Credit Midterm ,,hw07,
 ,,M,10.3,Recursion pt. 1,,,
 ,,W,11.01,Recursion pt. 2,,,
@@ -39,7 +39,7 @@ noClass ,italic ,F,11.24,NO CLASS - UNIVERSITY HOLIDAY ,,,
 ,proj,F,12.01,Final project workshop,,,proj-prototypeI
 ,,M,12.04,Handling exceptions,,,
 ,,W,12.06,Advanced Topics - HCI,,,
-,speaker,F,12.08,Code for Good Spotlight,,,proj-prototypeII
+,speaker,F,12.08,Code for Good Spotlight,,,"proj-prototypeII, cfg03"
 ,,M,12.11,Wrap-up,,,
 presy,proj,W,12.13,Final Project Demo Day,,,
 presy,proj ,F,12.15,Final Project Demo Day,,,proj

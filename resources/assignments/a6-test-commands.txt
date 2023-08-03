@@ -1,0 +1,22 @@
+ADD
+High Hopes
+Panic! at the Disco
+Pray for the Wicked
+https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge
+ADD
+The Kids Aren't Alright
+Fall Out Boy
+American Beauty/American Psycho
+https://open.spotify.com/track/3x7NGlfDKQYN2wnwEnL7r9
+ADD
+Whatever It Takes
+Imagine Dragons
+Evolve
+https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb
+PRINT
+REMOVE
+2
+PRINT
+PLAY
+1
+QUIT
