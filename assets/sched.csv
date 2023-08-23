@@ -1,43 +1,43 @@
 ﻿class-row,class-topic,Day,Date,Topic,Reading,Assign-OUT,Assign-DUE
-,,W,9.06,"Welcome - Ice breakers, Learning goals, Worries, What is CS",,hw00,
-,,F,9.08,How computers work ,,hw01,hw00
-,inClass,M,9.11,"Python intro, Pair programming ",,,ic01
-,,W,9.13,User Input,,,
-,,F,9.15,Numbers,,hw02,hw01
+,,W,9.06,Welcome - Who are We? What is coding?,,,
+,,F,9.08,How computers work ,"Ch 1.1, 1.6, 1.7 ",hw01,
+,inClass,M,9.11,"Python intro, Pair programming ","Ch 1.2, 2.1, 2.2",,ic01
+,,W,9.13,User Input,Ch 1.3,,
+,,F,9.15,Numbers,"Ch 2.3, 2.4",hw02,hw01
 noClass,italic,M,9.18,NO CLASS - Personal Day,,,
-,,W,9.2,Mathematical operators,,,
+,,W,9.2,Mathematical operators,"Ch 2.5, 2.6, 2.7",,
 ,speaker,F,9.22,Code for Good Spotlight,,hw03,"hw02, cfg01"
-,,M,9.25,"Conditional (""if"") statements",,,
-,,W,9.27,Strings and string methods,,,
+,,M,9.25,"Conditional (""if"") statements",Ch 4,,
+,,W,9.27,Strings and string methods,"Ch 3.1, 3.2, 7",,
 ,,F,9.29,The main() function ,,hw04,hw03
 ,inClass,M,10.02,Debugging,,,ic02
-,,W,10.04,For loops and While loops,,,
-,,F,10.06,The random module,,hw05,hw04
+,,W,10.04,For loops and While loops,Ch 5,,
+,,F,10.06,The random module,"Ch 2.8, 2.10",hw05,hw04
 noClass,italic,M,10.09,NO CLASS - UNIVERSITY HOLIDAY ,,,
 ,inClass,W,10.11,Documentation,,,ic03
-,,F,10.13,Writing functions,,hw06,hw05
-,,M,10.16,More functions ,,,
-,,W,10.18,Lists,,,
-,,F,10.2,Dictionaries,,,hw06
+,,F,10.13,Writing functions,Ch 6,hw06,hw05
+,,M,10.16,More functions ,Ch 6,,
+,,W,10.18,Lists,Ch 8.1 - 8.11,,
+,,F,10.2,Dictionaries,Ch 8.12 - 8.15,,hw06
 ,inClass,M,10.23,Code reuse,,,ic04
 ,speaker,W,10.25,Code for Good Spotlight,,,cfg02
 ,exam,F,10.27,Extra Credit Midterm ,,hw07,
-,,M,10.3,Recursion pt. 1,,,
-,,W,11.01,Recursion pt. 2,,,
-,,F,11.03,Classes pt. 1: Attributes and Methods,,proj,hw07
-,,M,11.06,Classes pt. 2: OOP,,,
-,,W,11.08,Classes pt 3: Inheritance,,,
+,,M,10.3,Recursion pt. 1,Ch 14,,
+,,W,11.01,Recursion pt. 2,Ch 14,,
+,,F,11.03,Classes pt. 1: Attributes and Methods,Ch 9,proj,hw07
+,,M,11.06,Classes pt. 2: OOP,Ch 9,,
+,,W,11.08,Classes pt 3: Inheritance,Ch 9,,
 noClass,italic,F,11.1,NO CLASS - UNIVERSITY HOLIDAY ,,,
 ,inClass,M,11.13,Paper prototyping,,,ic05
-,,W,11.15,Animation,,,
-,,F,11.17,Interaction,,,proj-proposal
-,,M,11.2,Working with files ,,,
+,,W,11.15,Animation,Ch 17.4,,
+,,F,11.17,Interaction,Ch 17.4,,proj-proposal
+,,M,11.2,Working with files ,Ch 12,,
 noClass,italic,W,11.22,NO CLASS - Everyone take a personal day ,,,
 noClass ,italic ,F,11.24,NO CLASS - UNIVERSITY HOLIDAY ,,,
-,,M,11.27,Introduction to algorithms,,,
+,,M,11.27,Introduction to algorithms,Ch 16,,
 ,inClass,W,11.29,Python packages and graphics,,,ic06
 ,proj,F,12.01,Final project workshop,,,proj-prototypeI
-,,M,12.04,Handling exceptions,,,
+,,M,12.04,Handling exceptions,Ch 10,,
 ,,W,12.06,Advanced Topics - HCI,,,
 ,speaker,F,12.08,Code for Good Spotlight,,,"proj-prototypeII, cfg03"
 ,,M,12.11,Wrap-up,,,
