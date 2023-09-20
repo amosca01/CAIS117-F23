@@ -6,8 +6,8 @@
 ,,F,9.15,Numbers,"Ch 2.3, 2.4",hw02,hw01
 noClass,italic,M,9.18,NO CLASS - Personal Day,,,
 ,,W,9.2,Mathematical operators,"Ch 2.5, 2.6, 2.7",,
-,speaker,F,9.22,Code for Good Spotlight,,hw03,"hw02, cfg01"
-,,M,9.25,"Conditional (""if"") statements",Ch 4,,
+,,F,9.22,"Conditional (""if"") statements",Ch 4,hw03,hw02
+,speaker,M,9.25,Code for Good Spotlight,,,cfg01
 ,,W,9.27,Strings and string methods,"Ch 3.1, 3.2, 7",,
 ,,F,9.29,The main() function ,,hw04,hw03
 ,inClass,M,10.02,Debugging,,,ic02
