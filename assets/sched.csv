@@ -14,10 +14,10 @@ noClass,italic,M,9.18,NO CLASS - Personal Day,,,
 ,,W,10.04,For loops and While loops,Ch 5,,
 ,,F,10.06,The random module,"Ch 2.8, 2.10",hw05,hw04
 noClass,italic,M,10.09,NO CLASS - UNIVERSITY HOLIDAY ,,,
-,inClass,W,10.11,Documentation,,,ic03
+,,W,10.11,Lists,Ch 8.1 - 8.11,,
 ,,F,10.13,Writing functions,Ch 6,hw06,hw05
-,,M,10.16,More functions ,Ch 6,,
-,,W,10.18,Lists,Ch 8.1 - 8.11,,
+,inClass,M,10.16,Documentation,Ch 6,,ic03
+,,W,10.18,More functions ,Ch 6,,
 ,,F,10.2,Dictionaries,Ch 8.12 - 8.15,,hw06
 ,inClass,M,10.23,Code reuse,,,ic04
 ,speaker,W,10.25,Code for Good Spotlight,,,cfg02
