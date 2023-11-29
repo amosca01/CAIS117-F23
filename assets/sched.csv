@@ -35,9 +35,9 @@ noClass,italic,F,11.1,NO CLASS - UNIVERSITY HOLIDAY ,,,
 noClass,italic,W,11.22,NO CLASS - Everyone take a personal day ,,,
 noClass ,italic ,F,11.24,NO CLASS - UNIVERSITY HOLIDAY ,,,
 ,,M,11.27,Introduction to algorithms,Ch 16,,proj-prototypeI
-,,W,11.29,Working with files ,,,
+,,W,11.29,Handling exceptions,Ch 10,,
 ,proj,F,12.01,Final project workshop,,,
-,,M,12.04,Handling exceptions,Ch 10,,
+,,M,12.04,Working with files,,,
 ,,W,12.06,Advanced Topics - HCI,,,proj-prototypeII
 ,speaker,F,12.08,Code for Good Spotlight,,,cfg03
 ,,M,12.11,Wrap-up,,,
